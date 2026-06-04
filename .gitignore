@@ -20,6 +20,7 @@ x86/
 *.pdb
 *.cache
 *.log
+build_log.txt
 
 # Local application data
 settings.txt
