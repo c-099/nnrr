@@ -1,6 +1,6 @@
-# nnrr - nine.nines recoil reducer/reverser
+# nnrr - nine.nines recoil reducer/reproducer
 
-nnrr is a recoil reducer or reverser utility for Windows. It lets you tune horizontal and vertical recoil, with optional staged recoil changes and pattern repeating.
+nnrr is a recoil reducer or recoil reproducer utility for Windows. It lets you tune horizontal and vertical recoil with optional staged recoil changes and pattern repeating.
 
 You can use this to reduce the recoil in a shooting game, or use the values in reverse for aim training. This utility uses some randomness to reduce automatic detection of its use. This program does not attempt to hide itself from anti-cheat in any way so use with caution.
 
@@ -48,4 +48,5 @@ nnrr\bin\Debug\net8.0-windows\nnrr.exe
 
 ## Credits
 https://github.com/rvknth043/Global-Low-Level-Key-Board-And-Mouse-Hook
+
 https://github.com/J-Yaghoubi/Anti-Recoil
